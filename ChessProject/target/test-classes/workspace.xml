@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6acb7c0-0ac6-4256-b21b-c055db3f1fd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q75IeSU4XAfR41bqPbjES5DxWL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1150748" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.ChessBoardTest">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChessBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-solarwindsmsp-chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncr.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncr.chess" />
+      <option name="MAIN_CLASS_NAME" value="com.ncr.chess.ChessBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-solarwindsmsp-chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncr.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncr.chess" />
+      <option name="MAIN_CLASS_NAME" value="com.ncr.chess.PawnTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest.testPawn_Move_IllegalCoordinates_Left_DoesNotMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-solarwindsmsp-chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncr.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncr.chess" />
+      <option name="MAIN_CLASS_NAME" value="com.ncr.chess.PawnTest" />
+      <option name="METHOD_NAME" value="testPawn_Move_IllegalCoordinates_Left_DoesNotMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest.testPawn_Move_IllegalCoordinates_Right_DoesNotMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-solarwindsmsp-chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncr.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncr.chess" />
+      <option name="MAIN_CLASS_NAME" value="com.ncr.chess.PawnTest" />
+      <option name="METHOD_NAME" value="testPawn_Move_IllegalCoordinates_Right_DoesNotMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PawnTest.testPawn_Move_LegalCoordinates_Forward_UpdatesCoordinates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-solarwindsmsp-chess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ncr.chess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ncr.chess" />
+      <option name="MAIN_CLASS_NAME" value="com.ncr.chess.PawnTest" />
+      <option name="METHOD_NAME" value="testPawn_Move_LegalCoordinates_Forward_UpdatesCoordinates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChessBoardTest" />
+        <item itemvalue="JUnit.PawnTest" />
+        <item itemvalue="JUnit.PawnTest.testPawn_Move_LegalCoordinates_Forward_UpdatesCoordinates" />
+        <item itemvalue="JUnit.PawnTest.testPawn_Move_IllegalCoordinates_Left_DoesNotMove" />
+        <item itemvalue="JUnit.PawnTest.testPawn_Move_IllegalCoordinates_Right_DoesNotMove" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6acb7c0-0ac6-4256-b21b-c055db3f1fd7" name="Default Changelist" comment="" />
+      <created>1616417715888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616417715888</updated>
+      <workItem from="1616417717685" duration="701000" />
+      <workItem from="1616419669987" duration="595000" />
+      <workItem from="1616425705584" duration="785000" />
+      <workItem from="1616444685955" duration="22340000" />
+      <workItem from="1616467372683" duration="1763000" />
+      <workItem from="1616469190473" duration="2074000" />
+      <workItem from="1616471470689" duration="360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1616446261193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1616446261193" />
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1616469550134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1616469550134" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1616470563900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616470563900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1616470563900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616470563900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1616470563900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616470563900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1616470563900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616470563900" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1616469808377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616469808377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1616469808377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616469808377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1616469808377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616469808377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1616469808377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616469808377" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1616446396162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616446396162" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ncr/chess/ChessBoardTest.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ncr/chess/ChessBoardTest.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
